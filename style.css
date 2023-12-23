@@ -1,0 +1,93 @@
+.form{
+  width: 250px;
+  height: 280px;
+  border-radius: 2px;
+  background-color: white;
+  
+
+
+}
+.login{
+  margin-top: 0;
+  color: white;
+  font-weight: 700;
+  background-color: rgb(9, 156, 122);
+  padding: 19px;
+  font-family: Roboto,Arial;
+  text-align: center;
+  border-radius: 2px 2px 0 0;
+}
+.phone,.password {
+  font-family: Roboto,Arial;
+  border:solid;
+  border-width: 1px;
+  border-color: rgb(185, 175, 175);
+  border-radius: 2px;
+  width: 220px;
+  font-size: 12px;
+  height:17px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  vertical-align: middle;
+
+}
+.phone :active{
+  border-color: rgb(9, 156, 122);
+}
+.password :active{
+  border-color: rgb(9, 156, 122);
+}
+
+.log{
+  font-family: roboto,Arial;
+  color: white;
+  font-weight: 500;
+  background-color: rgb(9, 156, 122);
+  border-radius: 2px;
+  width:220px;
+  text-align: center;
+  margin-left: 15px;
+  border:none;
+  padding: 6px;
+}
+.mem{
+  font-family: Roboto,Arial;
+  font-size: 12px;
+  margin-left: 15px;
+  text-align: center;
+ 
+}
+.mem:hover{
+  text-decoration: underline;
+}
+.signup{
+  color:rgb(9, 156, 122); 
+  font-family: Roboto,Arial;
+  font-size: 12px;
+
+}
+.user,.lock{
+  width:15px;
+  height: 20px;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 5px;
+  background-color: rgb(53, 190, 158);
+  margin-bottom: -37px;
+  
+}
+/* .lock{
+  margin-bottom: -40px;
+} */
+
+html,body{
+  display: grid;
+  height: 100%;
+  place-items: center;
+  background: rgb(122, 232, 206); 
+}
+.form form .row{
+  height: 45px;
+  background: #ff0000;
+  margin-bottom: 15px;
+}
