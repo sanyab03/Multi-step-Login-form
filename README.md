@@ -2,16 +2,16 @@
 <br>
 Author-Sanya Bansal
 <br>
-<h2>Project Title:<b> MULTI STEP SIGN UP PAGE </b></h2>
+<h2>Project Title:<b> MULTI-STEP SIGN UP PAGE </b></h2>
   <h2>Project Description:</h2> 
-  <p>       -This project demonstrates the creation of a multi step sign up form using HTML, CSS, and JavaScript.</p>
+  <p>       -This project demonstrates the creation of a multi-step sign up form using HTML, CSS, and JavaScript.</p>
   <p>       -A form that displays all the steps involved in that page.</p>
   
 
   <h2>Features:</h2>
   <p>       <p>The progress bar is checked out when a particular portion is filled/completed.</p>
   <p>       <p>Showcases all the relevant information to be filled in the form</p>
-  <p>       <b>Graphical User Interface :</b> Interface is made simple and engaging.</p>
+  <p>        Interface is made simple and engaging.</p>
   
   <h2>Installation:</h2>
   <p>       <p>No installation required, simply clone or download the repository and open index.html in a web browser.</p>
