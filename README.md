@@ -5,7 +5,7 @@ Author-Sanya Bansal
 <h2>Project Title:<b> MULTI STEP SIGN UP PAGE </b></h2>
   <h2>Project Description:</h2> 
   <p>       -This project demonstrates the creation of a multi step sign up form using HTML, CSS, and JavaScript.</p>
-  <p>       -A form that displays all the steps involved in that form.</p>
+  <p>       -A form that displays all the steps involved in that page.</p>
   
 
   <h2>Features:</h2>
